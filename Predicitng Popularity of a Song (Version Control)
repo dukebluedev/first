@@ -14,7 +14,7 @@ output:
 # Setting up working directory 
 
 getwd()
-setwd("C:/Users/rashm/Desktop/Duke MQM - Term 2/Data Science for Business/Term Project")
+setwd("Path File")
 getwd()
 
 
